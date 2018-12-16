@@ -1,0 +1,11 @@
+{
+  "name": "SourBot",
+  "version": "1.0.0",
+  "description": "Too Sour 4 U",
+  "main": "bot.js",
+  "author": "Kingallice",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
